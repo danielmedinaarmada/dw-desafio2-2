@@ -1,0 +1,30 @@
+body {
+  margin:0;
+  background: lightgray;
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h2,p{
+  margin:0;
+}
+
+
+header{
+  background: #273b47;
+}
+
+
+section{
+  background: #fcfcd2;
+  flex:1;
+}
+
+footer {
+  background:#7fc719;
+/*  position: fixed;
+  left:0;
+  right:0;
+  bottom: 0;*/
+}
